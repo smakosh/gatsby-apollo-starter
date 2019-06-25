@@ -1,0 +1,29 @@
+{
+  launchesPast(limit: 10) {
+    id
+    mission_name
+    launch_site {
+      site_name
+    }
+    links {
+      video_link
+    }
+    rocket {
+      rocket_name
+      first_stage {
+        cores {
+          flight
+          core {
+            reuse_count
+          }
+        }
+      }
+    }
+    ships {
+      name
+      home_port
+      image
+    }
+    launch_date_utc
+  }
+}
