@@ -60,7 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contributors
 
-- [Ajayns](https://github.com/ajayns) https://github.com/smakosh/gatsby-portfolio-dev/pull/3
 - [Myself](https://smakosh.com)
 
 ## Support
