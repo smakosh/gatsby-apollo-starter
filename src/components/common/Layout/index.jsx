@@ -1,6 +1,6 @@
 import React from 'react'
 import { GlobalStyle } from './styles'
-import './Layout.css'
+import './layout.css'
 
 export default ({ children }) => (
   <>
