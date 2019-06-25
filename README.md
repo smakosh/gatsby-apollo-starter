@@ -1,5 +1,7 @@
 # Gatsby-Apollo-Starter
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2bfca08-a76e-43ab-864f-751f34592c3a/deploy-status)](https://app.netlify.com/sites/gatsby-apollo-starter/deploys)
+
 ## Features
 
 - Apollo provider & Client side routing

@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://gatsby-apollo-starter.netlify.com/* https://gatsby-starter-apollo.smakosh.com/:splat 301!
